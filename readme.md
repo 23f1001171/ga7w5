@@ -8,4 +8,4 @@ This repository demonstrates a professional-grade scatterplot using **Seaborn** 
 - `README.md` – Project description and contact information
 
 ## Contact
-📧 Email: 23f101171@ds.study.iitm.ac.in
+📧 Email: 23f1001171@ds.study.iitm.ac.in
