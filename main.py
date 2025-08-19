@@ -1,5 +1,5 @@
 # chart.py
-# Author: 23f10011714@ds.study.iitm.ac.in
+# Author: 23f1001171@ds.study.iitm.ac.in
 # Generates a professional Seaborn scatterplot for marketing effectiveness
 
 import seaborn as sns
